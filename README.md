@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="style.css">
 </head> 
 <body>
-    <h1>Seu nome</h1>
-    <p>Autobiografia breve detalhandi interesses, nome, idade, cidade, etc.</p>
+    <h1>Nome</h1>
+    <p>Autobiografia breve detalhando interesses, nome, idade, cidade, etc.</p>
 
     <button onclick="mostrarMensagem()">Clique para ver uma mensagem!</button>
   <div id="mensagem"></div>
