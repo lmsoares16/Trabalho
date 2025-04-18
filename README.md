@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="style.css">
 </head> 
 <body>
-    <h1>Lara</h1>
-    <p>Me chamo Lara Miene, tenho 21 anos e moro em Francisco Morato. Escrevo desde os doze anos e costumava ser uma noveleira de primeira até os meus dezesseis, quando troquei novelas por documentários e séries policiais.</p>
+    <h1>Seu nome</h1>
+    <p>Autobiografia breve detalhandi interesses, nome, idade, cidade, etc.</p>
 
     <button onclick="mostrarMensagem()">Clique para ver uma mensagem!</button>
   <div id="mensagem"></div>
@@ -18,8 +18,8 @@
 
     <ul>
         <li>Escrever
-            <ul>Romance policial</ul>
-            <ul>Poesias</ul>
+            <ul>Romance</ul>
+            <ul>Poesia</ul>
         </li>
         <li>Documentários e podcasts
             <ul>Crimes reais</ul>
